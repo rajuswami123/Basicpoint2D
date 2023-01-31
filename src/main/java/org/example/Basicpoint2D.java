@@ -3,7 +3,7 @@ package org.example;
 import java.util.*;
 import java.util.logging.Logger;
 import  java.lang.Cloneable;
-import java.lang.Object;
+
 
 class Bp2d implements Cloneable{
     private float x;
